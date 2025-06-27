@@ -26,10 +26,10 @@
 </table>
 
 <P align="right">
-    <a href="https://blog.webseoer.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Website-WebSEOer.COM-orange?logo=Sogou&logoColor=white&style=for-the-badge" alt="Website" align="middle">
+    <img src="https://komarev.com/ghpvc/?username=webseoer&color=yellow&style=for-the-badge&label=%E2%9D%A4%20Profile%20Views%20%20%20%20%20" alt="GitHub Profile Views Counter" align="middle">
+    <a href="https://blog.webs.us.kg/" target="_blank">
+        <img src="https://img.shields.io/badge/Website-WEBS.US.KG-orange?logo=Sogou&logoColor=white&style=for-the-badge" alt="Website" align="middle">
     </a>
-    <img src="https://komarev.com/ghpvc/?username=webseoer&color=yellow&style=for-the-badge" alt="GitHub Profile Views Counter" align="middle">
 </P>
 
 <!-- --------------------------------------------------- GitHub Readme ----------------------------------------------------- -->
