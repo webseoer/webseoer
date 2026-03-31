@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/github/last-commit/webseoer/webseoer?color=success&label=Update&logo=GitHub&style=for-the-badge" alt="Update" align="middle">
 </p>
 
-<table style="display:table;width:100%;max-width:100%;margin:1rem auto;">
+<table align="center">
     <tr>
         <td align="center">
             <img src="https://github-readme-stats.shion.dev/api/?username=webseoer&locale=cn&show_icons=true&hide_border=true" alt="GitHub Stats Card" align="middle">
