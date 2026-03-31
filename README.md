@@ -2,7 +2,7 @@
 
 <h1 align="center">
     <a href="https://webseoer.github.io/" target="_blank">
-        <img src="https://github.com/webseoer.png" alt="WebSEOer" width="180" height="180" align="middle" style="border-radius:50%;"><br>
+        <img src="https://github.com/webseoer.png" alt="WebSEOer" width="180" height="180" align="middle" class="avatar-user"><br>
         <small>WebSEOer GitHub Pages</small>
     </a>
 </h1>
