@@ -17,10 +17,10 @@
 <table style="display:table;width:100%;max-width:100%;">
     <tr>
         <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/?username=webseoer&locale=cn&show_icons=true&hide_border=true" alt="GitHub Stats Card" align="middle">
+            <img src="https://github-readme-stats.shion.dev/api/?username=webseoer&locale=cn&show_icons=true&hide_border=true" alt="GitHub Stats Card" align="middle">
         </td>
         <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=webseoer&layout=compact&langs_count=8&hide_border=true&custom_title=WebSEOer%20%E7%9A%84%20GitHub%20%E7%83%AD%E9%97%A8%E8%AF%AD%E8%A8%80" alt="Top Languages Card" align="middle">
+            <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=webseoer&layout=compact&langs_count=8&hide_border=true&custom_title=WebSEOer%20%E7%9A%84%20GitHub%20%E7%83%AD%E9%97%A8%E8%AF%AD%E8%A8%80" alt="Top Languages Card" align="middle">
         </td>
     </tr>
 </table>
